@@ -1,6 +1,6 @@
 # meluotii.github.io
 my homework
 
-<a href="https://github.com/meluotii/2-homework">First homework</a>
+<a href="https://meluotii.github.io/1-homework/">first homework</a>
 <br>
-<a href="https://github.com/meluotii/2-homework">Second homework</a>
+<a href="https://meluotii.github.io/2-homework/">second homework</a>
