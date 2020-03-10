@@ -9,4 +9,5 @@
 
 [fifth homework](https://meluotii.github.io/5-homework)
 
+[sixth homework](https://meluotii.github.io/6-homework)
 
