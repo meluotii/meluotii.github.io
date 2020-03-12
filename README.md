@@ -1,13 +1,15 @@
 # meluotii.github.io
-### my homework
+### my homework. module 1
 
-[first homework](https://meluotii.github.io/1-homework)
+[1-st homework](https://meluotii.github.io/1-homework)
 
-[second homework](https://meluotii.github.io/2-homework)
+[2-nd homework](https://meluotii.github.io/2-homework)
 
-[fourth homework](https://meluotii.github.io/4-homework)
+[4-th homework](https://meluotii.github.io/4-homework)
 
-[fifth homework](https://meluotii.github.io/5-homework)
+[5-th homework](https://meluotii.github.io/5-homework)
 
-[sixth homework](https://meluotii.github.io/6-homework)
+[6-th homework](https://meluotii.github.io/6-homework)
+
+[7-th homework](https://meluotii.github.io/7-homework)
 
