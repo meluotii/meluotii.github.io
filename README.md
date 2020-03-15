@@ -13,3 +13,5 @@
 
 [7-th homework](https://meluotii.github.io/7-homework)
 
+[8-th homework](https://meluotii.github.io/8-homework)
+
