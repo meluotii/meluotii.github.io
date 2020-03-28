@@ -23,4 +23,10 @@
 
 [12-th homework. Forms](https://meluotii.github.io/12-homework)
 
+[13-th homework. SVG](https://meluotii.github.io/13-homework)
+
+[14-th homework. Post&Preprocessing](https://meluotii.github.io/14-homework)
+
+[15-th homework. Responsive web design](https://meluotii.github.io/15-homework)
+
 
