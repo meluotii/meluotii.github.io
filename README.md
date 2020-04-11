@@ -29,4 +29,6 @@
 
 [15-th homework. Responsive web design](https://meluotii.github.io/15-homework)
 
+[21-th homework. Exam](https://meluotii.github.io/exam)
+
 
