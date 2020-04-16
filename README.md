@@ -32,3 +32,6 @@
 [21-th homework. Exam](https://meluotii.github.io/exam)
 
 
+### my homework. module 2
+
+[22-th homework. JS basics](https://meluotii.github.io/22-homework/index.html)
