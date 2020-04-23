@@ -34,4 +34,12 @@
 
 ### my homework. module 2
 
-[22-th homework. JS basics](https://meluotii.github.io/22-homework/index.html)
+[22-th homework. JS basics](https://meluotii.github.io/22-homework/js/script.js)
+
+[23-th homework. Data types and operators](https://meluotii.github.io/23-homework/js/script.js)
+
+[24-th homework. Cycles](https://meluotii.github.io/24-homework/js/script.js)
+
+[25-th homework. Functions](https://meluotii.github.io/25-homework/js/script.js)
+
+[26-th homework. Objects](https://meluotii.github.io/26-homework/js/script.js)
