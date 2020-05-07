@@ -43,3 +43,5 @@
 [25-th homework. Functions](https://meluotii.github.io/25-homework/js/script.js)
 
 [26-th homework. Objects](https://meluotii.github.io/26-homework/js/script.js)
+
+[31-th homework. jQuery](https://meluotii.github.io/31-homework)
