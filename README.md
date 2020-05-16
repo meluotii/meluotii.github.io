@@ -45,3 +45,5 @@
 [26-th homework. Objects](https://meluotii.github.io/26-homework/js/script.js)
 
 [31-th homework. jQuery](https://meluotii.github.io/31-homework)
+
+[36-th homework. Exam](https://meluotii.github.io/36-homework)
