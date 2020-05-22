@@ -47,3 +47,5 @@
 [31-th homework. jQuery](https://meluotii.github.io/31-homework)
 
 [36-th homework. Exam](https://meluotii.github.io/36-homework)
+
+[38-th homework. Grid Layout](https://meluotii.github.io/38-homework)
