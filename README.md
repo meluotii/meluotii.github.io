@@ -48,4 +48,10 @@
 
 [36-th homework. Exam](https://meluotii.github.io/36-homework)
 
+
+### my homework. module 3
+
 [38-th homework. Grid Layout](https://meluotii.github.io/38-homework)
+
+[40-th homework. Webpack](https://github.com/meluotii/40-homework)
+
