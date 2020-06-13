@@ -55,3 +55,5 @@
 
 [40-th homework. Webpack](https://github.com/meluotii/40-homework)
 
+[47-th homework. Exam](https://github.com/meluotii/47-homework)
+
